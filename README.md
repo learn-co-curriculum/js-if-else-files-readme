@@ -3,7 +3,7 @@
 ## Objectives
 1. Define control flow for when a JS program is executed.
 2. Implement control flow in different ways.
-3. Use `if`, `else`, and `elsif` statements.
+3. Use `if`, `else`, and `elseif` statements.
 
 ## What is Control Flow?
 > A control flow construct is a language feature which disrupts the normal progression to the next statement and conditionally or unconditionally branches to another location in source code.                                
@@ -141,3 +141,5 @@ if (dog === "hungry") {
 ```
 
 * This will print out "Snuggling"
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/js-if-else-files-readme'>Conditional Statements</a> on Learn.co and start learning to code for free.</p>
