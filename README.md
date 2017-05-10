@@ -3,7 +3,7 @@
 ## Objectives
 1. Define control flow for when a JS program is executed.
 2. Implement control flow in different ways.
-3. Use `if`, `else`, and `elseif` statements.
+3. Use `if`, `else`, and `else if` statements.
 
 ## What is Control Flow?
 > A control flow construct is a language feature which disrupts the normal progression to the next statement and conditionally or unconditionally branches to another location in source code.                                
@@ -20,7 +20,7 @@ There are a number of ways to tell your program to conditionally execute certain
 
 ### `if` Statements
 
-One of the most common ways to enact control flow is the `if` statement. Whatever block of code that follows the `if` statement will get evaluated—i.e. read and enacted by the computer. If this evaluation of the `if` statement results in `true`, then the code through to the associated `end` statement will run.
+One of the most common ways to enact control flow is the `if` statement. Whatever block of code that follows the `if` statement will get evaluated—i.e. read and enacted by the computer. If this evaluation of the `if` statement results in `true`, then the code through to the associated `}` will run.
 
 Let's look at a few examples:
 
